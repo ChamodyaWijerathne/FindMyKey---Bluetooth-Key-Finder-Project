@@ -43,3 +43,7 @@ View the wireframe here:
 https://www.figma.com/design/XdiLuLpMmLUd8RpELBktNg/Bluetooth-Keychain-Design?node-id=0-1&t=H0MEkFlhl6U6G8jA-1
 
 ---
+<img width="1389" height="745" alt="Screenshot 2025-11-15 025723" src="https://github.com/user-attachments/assets/a6b9adb1-9797-4154-977a-345de4d77cfe" />
+<img width="1024" height="753" alt="Screenshot 2025-11-15 025849" src="https://github.com/user-attachments/assets/f835d864-55ee-45a7-825e-2e4b37a48774" />
+
+
